@@ -1,0 +1,16 @@
+{
+  "name": "boletines",
+  "version": "1.0.0",
+  "description": "Curso de programacion web codigo facilito",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Cappella",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "animate.css": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "normalize.css": "^8.0.1"
+  }
+}
